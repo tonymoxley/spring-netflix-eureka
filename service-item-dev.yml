@@ -1,3 +1,4 @@
 active:
   config:
-    name: Develop environment configuration
+    name: Develop
+    desc: Develop environment configuration
