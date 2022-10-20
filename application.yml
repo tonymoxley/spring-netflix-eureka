@@ -1,0 +1,8 @@
+#general config security
+config:
+    security:
+        oauth:
+            client-id: frontend
+            client-pass: 123456
+        jwt:
+            key: secret_key_jwt123
