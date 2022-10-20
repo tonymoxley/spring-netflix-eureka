@@ -2,3 +2,5 @@ active:
   config:
     name: Local
     desc: Local environment configuration
+author:
+  name: Antonio Hernandez

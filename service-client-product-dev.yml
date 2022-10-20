@@ -2,3 +2,5 @@ active:
   config:
     name: Develop
     desc: Develop environment configuration
+author:
+  name: Antonio Hernandez

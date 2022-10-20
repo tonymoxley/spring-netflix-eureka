@@ -2,3 +2,5 @@ active:
   config:
     name: Production
     desc: Production environment configuration
+author:
+  name: Antonio Hernandez
